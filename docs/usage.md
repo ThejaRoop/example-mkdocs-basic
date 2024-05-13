@@ -1,7 +1,7 @@
 Usage
 =====
 
-Installation
+Installation--Installation we are now testting the features-- THEJA
 ------------
 
 To use Lumache, first install it using pip:
